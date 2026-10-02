@@ -2,7 +2,7 @@
 
 Installers for [Octaflow](https://octaflow.app), the voice assistant for Mac. This repository holds release files only; there is no source code here.
 
-**Download the latest version:** [Octaflow.dmg](https://github.com/lockdhelp-boop/octaflow-releases/releases/latest/download/Octaflow.dmg)
+**Download the latest version:** [Octaflow.dmg](https://github.com/tunedtech/octaflow-releases/releases/latest/download/Octaflow.dmg)
 
 The main download is at [octaflow.app](https://octaflow.app). This is a backup for networks that block new domains.
 
